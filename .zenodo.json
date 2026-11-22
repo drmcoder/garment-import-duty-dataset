@@ -1,0 +1,13 @@
+{
+  "title": "Garment import duty by origin and destination",
+  "description": "<p>Import duty on cotton knit T-shirts (HS 6109.10), polo shirts (HS 6105.10) and sweatshirts/hoodies (HS 6110.20) made in Nepal, Bangladesh, India, China and Vietnam, entering ten markets: the European Union, United Kingdom, United States, Canada, Japan, South Korea, Australia, China, India and the United Arab Emirates. 144 rows, each with the tariff treatment applied and an official source, checked 25–27 September 2026. CSV and JSON. Not customs or legal advice. Online: <a href=\"https://trishaktiapparel.com/tools/duty-rates/\">trishaktiapparel.com/tools/duty-rates/</a>. Published by Trishakti Apparel, a knitwear factory in Gaindakot, Nepal.</p>",
+  "upload_type": "dataset",
+  "creators": [{ "name": "Trishakti Apparel" }],
+  "license": "cc-by-4.0",
+  "version": "2026-09-25",
+  "keywords": ["import duty", "tariffs", "rules of origin", "garments", "knitwear", "Nepal", "Bangladesh", "India", "China", "Vietnam", "LDC", "GSP", "Everything But Arms"],
+  "related_identifiers": [
+    { "identifier": "https://trishaktiapparel.com/tools/duty-rates/", "relation": "isSupplementTo", "resource_type": "other" },
+    { "identifier": "https://github.com/SAHARA-Labs-Nepal/nepal-knitwear-sourcing-tools", "relation": "isPartOf", "resource_type": "dataset" }
+  ]
+}

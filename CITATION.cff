@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Garment import duty by origin and destination"
+abstract: "Import duty on cotton knit T-shirts, polo shirts and sweatshirts/hoodies from Nepal, Bangladesh, India, China and Vietnam into ten markets (EU, UK, US, Canada, Japan, South Korea, Australia, China, India, UAE), with the tariff treatment and an official source for every row."
+type: dataset
+authors:
+  - name: "Trishakti Apparel"
+    website: "https://trishaktiapparel.com"
+version: "2026-09-25"
+date-released: 2026-11-22
+license: CC-BY-4.0
+url: "https://trishaktiapparel.com/tools/duty-rates/"
+repository-code: "https://github.com/drmcoder/garment-import-duty-dataset"
+keywords: [import duty, tariffs, rules of origin, garments, knitwear, Nepal, Bangladesh, India, China, Vietnam, LDC, GSP, Everything But Arms]
