@@ -1,5 +1,7 @@
 # Garment import duty by origin and destination
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24444291.svg)](https://doi.org/10.5281/zenodo.24444291)
+
 Import duty on three knitwear products, from five producing countries into ten markets, with the preference scheme and the official source for every row. Free to reuse under CC BY 4.0.
 
 **Browse it online:** [trishaktiapparel.com/tools/duty-rates/](https://trishaktiapparel.com/tools/duty-rates/) · **Compare landed cost:** [duty comparison chart](https://trishaktiapparel.com/duty-comparison/)
@@ -30,6 +32,6 @@ Import duty on three knitwear products, from five producing countries into ten m
 Rates change. Preferential rates apply only when the goods meet that scheme's rules of origin and the right proof of origin is provided. Taxes such as VAT, GST or IGST are not included. This dataset is not customs or legal advice: confirm your HS code and origin with a licensed customs broker. The live copy at <https://trishaktiapparel.com/data/garment-duty-rates.json> is updated when rates change.
 
 ## Licence and citation
-Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit: *Trishakti Apparel, trishaktiapparel.com*. Please cite it as described in `CITATION.cff`.
+Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit: *Trishakti Apparel, trishaktiapparel.com*. Please cite it: Trishakti Apparel (2026). *Garment import duty by origin and destination* [Dataset]. Zenodo. [doi:10.5281/zenodo.24444291](https://doi.org/10.5281/zenodo.24444291) (all versions; see `CITATION.cff`).
 
 Made by [Trishakti Apparel](https://trishaktiapparel.com), a knitwear factory in Gaindakot, Nepal. Also part of our [open tools for knitwear buyers](https://github.com/SAHARA-Labs-Nepal/nepal-knitwear-sourcing-tools). Corrections welcome: open an issue.

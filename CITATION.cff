@@ -7,6 +7,7 @@ authors:
   - name: "Trishakti Apparel"
     website: "https://trishaktiapparel.com"
 version: "2026-09-25"
+doi: 10.5281/zenodo.24444291
 date-released: 2026-11-22
 license: CC-BY-4.0
 url: "https://trishaktiapparel.com/tools/duty-rates/"
